@@ -5,7 +5,7 @@
 
 ### Sobre:
 
-Repositório de estudo do curso <a href="https://www.udemy.com/course/sql-para-analise-de-dados/">**SQL para Análise de Dados**</a> da <a href="https://github.com/MidoriToyota">**Profª. Midori Toyota**</a> 
+Repositório de estudo do curso <a href="https://www.udemy.com/course/sql-para-analise-de-dados/">**SQL para Análise de Dados**</a> da <a href="https://github.com/MidoriToyota">**Midori Toyota**</a> 
 
 ### Objetivo:
 
