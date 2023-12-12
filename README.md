@@ -16,7 +16,7 @@ Aprimorar o entendimento prático de SQL, consolidando as habilidades de consult
 - <strong>query:</strong> Aqui você encontrará as querys de estudo que foram feitas.
 - <strong>readme_translated:</strong> This repository contains the PDF with the report translated into English.
 
-### Linguagem Utilizada:
+### SGBD Utilizada:
 ###
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&color=black)
 
