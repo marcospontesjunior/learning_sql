@@ -1,6 +1,6 @@
 -- DESAFIO ######################################################################
 
-.schema customers
+.schema
 
 -- (Exercício 1) Selecione os nomes de cidade distintas que existem no estado de
 -- Minas Gerais em ordem alfabética (dados da tabela sales.customers)
